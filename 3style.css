@@ -1,0 +1,83 @@
+#main-title {
+    color: #000;
+    font-size: 72px;
+    line-height: normal;
+    text-align: center;
+    gap: 53px;
+}
+
+#par-1 {
+    color: #FF8000;
+    text-align: center;
+    font-size: 24px; 
+    line-height: 32px; /* 133.333% */
+    margin-left: 180px;
+    margin-right: 280px;
+}
+
+#Frame-1597883368 {
+    width: 696px;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    margin-left: 67px;
+}
+
+#second-title {
+    color: #D9AE00;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    align-self: stretch;
+}
+
+#par-2 {
+    color: #6D81B4;
+    font-size: 24px;
+    line-height: normal;
+    margin-right: 80px;
+    margin-top: 24px;
+    align-self: stretch;
+}
+
+#image-10 {
+    height: 415px;
+    width: 696px;
+    align-self: stretch;
+}
+
+#Frame-1597883369 {
+    border-top: 2px solid #000;
+    border-left: 2px solid #000;
+    border-right: 2px solid #F44E50;
+    border-bottom: 2px solid #F44E50; 
+    background: #FFCEBE;
+    height: 690px;
+    width: 1000px;
+    margin-left: 74px;
+    margin-top: 101px;
+    align-items: center;
+}
+
+#third-title {
+    color: #F44E50;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 64px;
+}
+
+#par-3 {
+    color: #8B2B2C;
+    text-align: center;
+    font-size: 20px;
+}
+
+#image-11 {
+    width: 879px;
+    height: 415px;
+    margin-top: 30px;
+    margin-bottom: 64px;
+    margin-left: 64px;
+    margin-right: 64px;
+}
